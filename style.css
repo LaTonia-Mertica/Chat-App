@@ -1,0 +1,96 @@
+body {
+  font-family: "Glacial Indifference", sans-serif;
+}
+
+header.row {
+  margin-top: 15px;
+  border-bottom: 1px solid #150811;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.headLabel {
+  font-family: "Insolent", sans-serif;
+  letter-spacing: 2px;
+  color: #150811;
+}
+
+#messages {
+  height: calc(100vh - 140px);
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#daughterImg {
+  border-radius: 50%;
+}
+
+.messageText {
+  background: #5ce1e6;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+
+  padding: 10px;
+  display: inline-block;
+  border-radius: 44px;
+}
+
+#momImg {
+  border-radius: 50%;
+  filter: grayscale(100%);
+}
+
+.userMessageText {
+  background-color: #0d21a1;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.message {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.timestamp,
+.boundStamp {
+  color: darkgrey;
+  font-size: 10px;
+  padding-top: 7px;
+}
+
+.inputBar {
+  padding-top: 10px;
+  border-top: 1px solid #150811;
+}
+
+.inputBar .btn {
+  width: 100%;
+  background-color: #150811;
+  font-family: "Insolent", sans-serif;
+  letter-spacing: 2px;
+  border: none;
+  margin-bottom: 15px;
+}
+.message .buttons {
+  visibility: hidden;
+  font-family: "Insolent", sans-serif;
+  font-size: x-small;
+  letter-spacing: 2px;
+}
+
+#sendBtn {
+  font-size: small;
+  padding: 10px;
+}
+
+.message:hover .buttons {
+  visibility: visible;
+  cursor: crosshair;
+}
