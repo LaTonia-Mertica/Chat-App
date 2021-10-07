@@ -1,4 +1,4 @@
-# Chat-App
+# Chat App
 
 ###### <a href="https://www.latoniamertica.dev/Chat-App/" target="_blank">visit Chat App by La'Tonia Mertica</a>
 <br>
