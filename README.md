@@ -1,5 +1,5 @@
 # Chat App
-*solid exercise for simulated two-way conversation, including timestamp, preventDefault(), edit, delete, push method, template literals, onclick, for loop with if statement, time lapse/delay, and updateHTML ... simple while powerful code*
+*solid exercise for simulated two-way conversation, including timestamp, preventDefault(), edit, delete, push method, template literals, onclick, for loop with if statement, time lapse/delay, and updateHTML ...*
 
 **NEXT STEP**
 <br>
