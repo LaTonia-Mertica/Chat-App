@@ -2,8 +2,8 @@
 *solid exercise for simulated two-way conversation, including timestamp, preventDefault(), edit, delete, push method, template literals, onclick, for loop with if statement, time lapse/delay, and updateHTML ...*
 
 **HOW WORKS**
-enter message, submit, await computer generated response set to respond between 1 and 10 seconds
 <br>
+enter message, send, await computer generated response set to respond between 1 and 10 seconds, and hover on outbound messages (i.e. messages you send) to edit and delete
 
 **NEXT STEP**
 <br>
