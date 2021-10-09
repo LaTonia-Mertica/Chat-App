@@ -1,4 +1,8 @@
 # Chat App
+*solid exercise for simulated two-way conversation, including timestamp, preventDefault(), edit, delete, push method, template literals, onclick, for loop with if statement, time lapse/delay, and updateHTML ... simple while powerful code*
+
+**NEXT STEP**
+scale to accept user-set inbound messages to establish two-way connection with another person
 
 ###### <a href="https://www.latoniamertica.dev/Chat-App/" target="_blank">visit Chat App by La'Tonia Mertica</a>
 <br>
