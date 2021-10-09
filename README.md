@@ -1,6 +1,10 @@
 # Chat App
 *solid exercise for simulated two-way conversation, including timestamp, preventDefault(), edit, delete, push method, template literals, onclick, for loop with if statement, time lapse/delay, and updateHTML ...*
 
+**HOW WORKS**
+enter message, submit, await computer generated response set to respond between 1 and 10 seconds
+<br>
+
 **NEXT STEP**
 <br>
 scale to accept user-set inbound messages to establish two-way connection with another person
